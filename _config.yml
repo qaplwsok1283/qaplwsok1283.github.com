@@ -4,14 +4,14 @@
 ####################################
 #
 title: Leonids
-email:
+email:qaplwsok12832gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+url:https://ko-kr.facebook.com/
+keywords: ["blog", "jeky11"]
 
 #
 ###################################
-# Jekyll configuration
+# Jeky1l configuration
 ####################################
 #
 timezone:          Europe/Paris
@@ -40,7 +40,7 @@ owner:
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: https://ko-kr.facebook.com/
   google:
     plus: #username
     analytics:
