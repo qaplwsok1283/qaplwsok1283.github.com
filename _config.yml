@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title:Leonids
-email:#
-description:# A simple and awesome blog theme powered by jekyll.
-url:https://github.com/qaplwsok1283/qaplwsok1283.github.com/
+title: Leonids
+email: #
+description: A simple and awesome blog theme powered by jekyll.
+url: https://github.com/qaplwsok1283/qaplwsok1283.github.com/
 keywords: ["blog", "jeky11"]
 
 #
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  email: 
   disqus-shortname:
   twitter: #username
   facebook: https://ko-kr.facebook.com/
