@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: blog
 email: qaplwsok128@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: https://qaplwsok1283.github.io/
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: LEONIDS
+  name: leonids
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
