@@ -6,7 +6,7 @@
 title: Leonids
 email: qaplwsok128@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: https://github.com/qaplwsok1283/qaplwsok1283.github.com/
+url: https://qaplwsok1283.github.io/
 keywords: ["blog", "jeky11"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jeky11"]
 # Jeky1l configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
