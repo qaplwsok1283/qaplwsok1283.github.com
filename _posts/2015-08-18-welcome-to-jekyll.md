@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WELCOME TO MY PAGE¤»¤»"
+title:  "WELCOME TO MY PAGE"
 date:   2018-03-03 16:00:00 							
 categories: [tutorial]
 comments: true
